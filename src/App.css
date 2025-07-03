@@ -1,0 +1,23 @@
+/* App.css */
+
+
+body{
+    background: #c9d6ff;
+}
+body {
+    background: #c9d6ff;
+    background: -webkit-linear-gradient(to right, #e2e2e2, #c9d6ff);
+    background: linear-gradient(to right, #e2e2e2, #c9d6ff);
+    font-family: 'Roboto', sans-serif;
+}
+.page-link {
+    color: #121212!important;
+    background-color: #eceff1!important;
+    border-color: #121212!important;
+}
+.page-item.active .page-link {
+    background-color: #121212!important;
+    border-color: #121212!important;
+    color: #ffffff!important;
+}
+
