@@ -105,16 +105,9 @@ function NewFeed() {
                                 : 0}
                             )
                         </h1>
-                        <Button
-                            color="warning"
-                            outline
-                            style={{ fontSize: '1rem', padding: '8px 18px' }}
-                            href="/user/dashboard"
-                        >
-                            <a style={{ color: 'black', textDecoration: 'none' }}>
-                                Create Your Blog
-                            </a>
-                        </Button>
+                        <Button color="warning" outline style={{fontSize:"1rem",padding:"8px 18px"}} href="/user/dashboard">
+  Create Your Blog
+</Button>
                     </div>
                     <FormGroup className="mb-4">
                         <Label for="categorySelect" style={{ fontWeight: 600 }}>Filter by Category</Label>

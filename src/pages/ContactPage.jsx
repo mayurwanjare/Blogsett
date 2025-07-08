@@ -89,7 +89,7 @@ const ContactPage = () => {
                   <div className="text-center" style={{ color: "#555" }}>
                     <p>
                       <b>Email:</b> support@blogsett.com<br />
-                      <b>Phone:</b> +91 98765 43210
+                      <b>Phone:</b> +91 8146926191
                     </p>
                     <p>
                       We usually respond within 24 hours.
