@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/mayurwanjare/Blogsett.git/static/css/main.084aae83.css",
-    "main.js": "/mayurwanjare/Blogsett.git/static/js/main.10dd0e01.js",
-    "static/js/453.a5b5c665.chunk.js": "/mayurwanjare/Blogsett.git/static/js/453.a5b5c665.chunk.js",
-    "static/media/web-background.jpg": "/mayurwanjare/Blogsett.git/static/media/web-background.c97fa64a93baf74caeab.jpg",
-    "static/media/logo.svg": "/mayurwanjare/Blogsett.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/mayurwanjare/Blogsett.git/index.html",
-    "main.084aae83.css.map": "/mayurwanjare/Blogsett.git/static/css/main.084aae83.css.map",
-    "main.10dd0e01.js.map": "/mayurwanjare/Blogsett.git/static/js/main.10dd0e01.js.map",
-    "453.a5b5c665.chunk.js.map": "/mayurwanjare/Blogsett.git/static/js/453.a5b5c665.chunk.js.map"
+    "main.css": "/Blogsett/static/css/main.084aae83.css",
+    "main.js": "/Blogsett/static/js/main.855c38d6.js",
+    "static/js/453.a5b5c665.chunk.js": "/Blogsett/static/js/453.a5b5c665.chunk.js",
+    "static/media/web-background.jpg": "/Blogsett/static/media/web-background.c97fa64a93baf74caeab.jpg",
+    "static/media/logo.svg": "/Blogsett/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Blogsett/index.html",
+    "main.084aae83.css.map": "/Blogsett/static/css/main.084aae83.css.map",
+    "main.855c38d6.js.map": "/Blogsett/static/js/main.855c38d6.js.map",
+    "453.a5b5c665.chunk.js.map": "/Blogsett/static/js/453.a5b5c665.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.084aae83.css",
-    "static/js/main.10dd0e01.js"
+    "static/js/main.855c38d6.js"
   ]
 }
